@@ -1,5 +1,6 @@
 ﻿# Contributors
 - [Krish Nerkar](https://github.com/krish-Nerkar)
+- [Shahbaz Alam](https://github.com/shahbazalam07)
 - [Naveen Bandarage](https://github.com/NaveenBandarage)
 - [Swayam Kaul](https://github.com/swayamkaul)
 - [Gabriel Garcia (0x5ubt13)](https://github.com/0x5ubt13/)
